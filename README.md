@@ -1,7 +1,6 @@
 - 👋 Hi, I’m esentur
 - 👀 I’m interested in web
 - 🌱 I’m currently learning RoR
-- 💞️ I’m looking to collaborate on good ideas
 - 📫 How to reach me esentur19941994@gmail.com
 
 <!---
