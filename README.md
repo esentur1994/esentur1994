@@ -1,4 +1,4 @@
-- 👋 Hi, I’m esentur
+- 👋 Hi, I’m Esentur
 - 👀 I’m interested in web
 - 🌱 I’m currently learning RoR
 - 📫 How to reach me esentur19941994@gmail.com
